@@ -15,7 +15,7 @@ function getCamDirection(){
   }
   return [x,y,z]
 }
-
+//
 setTick(() => {
     const ped = PlayerPedId()
     if (noClip) {
