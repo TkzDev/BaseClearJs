@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@citizenfx/client": "^2.0.6704-1",
+    "@citizenfx/server": "^2.0.6704-1",
+    "colors": "^1.4.0"
+  }
+}
